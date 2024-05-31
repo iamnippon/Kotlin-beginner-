@@ -2,7 +2,7 @@ import kotlin.random.Random
 
 fun main() {
     println("Welcome to the Number Guessing Game!")
-    println("I've selected a random number between 1 and 100. Can you guess it?")
+    println("I've selected a random number from 1 to 100. Can you guess it?")
 
     val secretNumber = Random.nextInt(1, 101)
     var attempts = 0
