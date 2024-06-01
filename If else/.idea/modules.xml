@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Kotlin-beginner-.iml" filepath="$PROJECT_DIR$/.idea/Kotlin-beginner-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/If else.iml" filepath="$PROJECT_DIR$/If else.iml" />
     </modules>
   </component>
 </project>
