@@ -28,7 +28,7 @@ fun main() {
     println("Average rating: $averageRating")
 
     // Print information for each book using the extension function
-    books.forEach { Dprintln(it.info()) }
+    books.forEach { println(it.info()) }
 
     // Get books by a specific author using the extension function
     val orwellBooks = books.getBooksByAuthor("George Orwell")
