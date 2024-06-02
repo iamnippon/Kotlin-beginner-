@@ -30,6 +30,7 @@ fun main() {  // Define the main function, the entry point of the program
     println("Average rating: $averageRating")  // Print the average rating
 
     // Print information for each book using the info extension function
+    //Hint: Use forEach to iterate over the books and print the information of each book
     books.forEach { println(it.info()) }
 
     // Get books by a specific author using the getBooksByAuthor extension function
